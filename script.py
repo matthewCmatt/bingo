@@ -2,7 +2,7 @@ import random
 import pyperclip
 
 # Path to the CSV file containing entries
-csv_file_path = 'entries.csv'
+csv_file_path = 'entries.txt'
 
 # Function to read entries from a CSV file
 def read_entries_from_csv(file_path):
